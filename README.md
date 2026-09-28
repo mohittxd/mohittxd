@@ -33,7 +33,7 @@
 ```
 
 
-
+```
 * 🔭 Currently working on **web development and AI/security projects**
 * 🌱 Currently learning **Java, DSA and Full-Stack Development**
 * 💻 Interested in **Frontend Development, APIs, Databases and Cybersecurity**
