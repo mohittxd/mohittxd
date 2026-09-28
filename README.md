@@ -25,7 +25,7 @@
 🎓 Computer Science undergraduate
 💻 Full-Stack Developer
 🌐 Building modern web applications
-🐍 Python and backend development
+🐍 Python and Django Full-Stack Development
 🔧 Git and GitHub
 🛡️ Learning AI, Cybersecurity and developer tools
 📚 Currently preparing for software development placements
@@ -50,22 +50,22 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
 </p>
 
-### 🌐 Web Development
+### 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### ⚙️ Backend & Frameworks
+### 🐍 Python Full-Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,django,django,fastapi" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb" />
 </p>
 
 ### 🛠️ Tools & Platforms
@@ -129,11 +129,11 @@ A collection of web development projects focused on responsive interfaces, moder
 
 <td width="50%">
 
-### 🔧 Backend & API Projects
+### 🐍 Django Projects
 
-Projects exploring backend development, APIs, databases and application architecture.
+Projects exploring Python, Django, REST APIs, databases and full-stack application development.
 
-**Tech:** `Python` `Django` `FastAPI` `SQL`
+**Tech:** `Python` `Django` `REST API` `SQL`
 
 <a href="https://github.com/mohittxd?tab=repositories">
 <img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github" />
