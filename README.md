@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mohit Verma
 
-### Frontend Developer · Computer Science Undergraduate · Full-Stack Development Enthusiast
+### Full-Stack Developer · Computer Science Undergraduate · Software Development Enthusiast
 
 <p>
   <a href="https://github.com/mohittxd">
@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=mohittxd&label=Profile%20Views&color=0e75b6&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=mohittxd&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -32,12 +32,11 @@
 🚀 Always learning and building new projects
 ```
 
-
-```
-* 🔭 Currently working on **web development and AI/security projects**
-* 🌱 Currently learning **Java, DSA and Full-Stack Development**
-* 💻 Interested in **Frontend Development, APIs, Databases and Cybersecurity**
-* 🧠 Exploring **AI-powered applications and developer tools**
+* 🔭 Currently working on **Full-Stack Web Applications and AI/Security Projects**
+* 🌱 Currently learning **Java and DSA for placements**
+* 💻 Experienced with **Full-Stack Development, APIs, Databases and Git/GitHub**
+* 🧠 Exploring **AI-powered applications and cybersecurity**
+* 📚 Currently preparing for **software development placements**
 * 👨‍💻 Check out my projects on [GitHub](https://github.com/mohittxd)
 * 🌐 Visit my [Portfolio](https://mohittxd.github.io/portfolio/)
 
@@ -118,7 +117,7 @@ A modern e-commerce web application focused on creating a complete and responsiv
 
 ### 🌐 Web Development Projects
 
-A collection of web development projects focused on frontend design, responsive interfaces and practical web functionality.
+A collection of web development projects focused on responsive interfaces, modern web development and practical functionality.
 
 **Tech:** `HTML` `CSS` `JavaScript`
 
