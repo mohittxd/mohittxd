@@ -59,7 +59,7 @@
 ### 🐍 Python Full-Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,django,fastapi" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi" />
 </p>
 
 ### 🗄️ Databases
@@ -71,7 +71,7 @@
 ### 🛠️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
 </p>
 
 ---
