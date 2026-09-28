@@ -23,14 +23,16 @@
 
 ```text
 🎓 Computer Science undergraduate
-💻 Frontend Developer interested in Full-Stack Development
+💻 Full-Stack Developer
 🌐 Building modern web applications
-🐍 Learning Python and backend development
-🔧 Comfortable with Git and GitHub
-🛡️ Interested in AI, Cybersecurity and developer tools
+🐍 Python and backend development
+🔧 Git and GitHub
+🛡️ Learning AI, Cybersecurity and developer tools
 📚 Currently preparing for software development placements
 🚀 Always learning and building new projects
 ```
+
+
 
 * 🔭 Currently working on **web development and AI/security projects**
 * 🌱 Currently learning **Java, DSA and Full-Stack Development**
